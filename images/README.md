@@ -51,7 +51,7 @@ int main()
 123454321
 ```
 # 作业答案  
-![image](http://github.com/JACKK11/JACKK11/raw/master/images/hw5_result1.png)
+![image](https://github.com/JACKK11/JACKK11/raw/master/images/hw5_result1.png)
 http://github.com/JACKK11/JACKK11/raw/master/images/hw5_result2.jpg
 http://github.com/JACKK11/JACKK11/raw/master/images/hw5_result3.png
 http://github.com/JACKK11/JACKK11/raw/master/images/hw5_result4.png
